@@ -1,6 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-114-orange.svg?style=flat-square)](#contributors-)
-
 [![Rust](https://github.com/kekeliu-whu/rustlings/actions/workflows/rust.yml/badge.svg)](https://github.com/kekeliu-whu/rustlings/actions/workflows/rust.yml)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -322,6 +321,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/alirezaghey"><img src="https://avatars.githubusercontent.com/u/26653424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>alirezaghey</b></sub></a><br /><a href="#content-alirezaghey" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/frvannes16"><img src="https://avatars.githubusercontent.com/u/3188475?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Franklin van Nes</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=frvannes16" title="Code">💻</a></td>
+    <td align="center"><a href="https://nekonako.github.io"><img src="https://avatars.githubusercontent.com/u/46141275?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nekonako</b></sub></a><br /><a href="https://github.com/rust-lang/rustlings/commits?author=nekonako" title="Code">💻</a></td>
   </tr>
 </table>
 
