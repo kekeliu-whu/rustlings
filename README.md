@@ -1,5 +1,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-115-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-114-orange.svg?style=flat-square)](#contributors-)
+[![Rust](https://github.com/kekeliu-whu/rustlings/actions/workflows/rust.yml/badge.svg)](https://github.com/kekeliu-whu/rustlings/actions/workflows/rust.yml)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # rustlings 🦀❤️
