@@ -1,10 +1,10 @@
-name: Rust
+name: Quiz
 
 on:
   push:
-    branches: [ quiz ]
+    branches: [ main, quiz ]
   pull_request:
-    branches: [ quiz ]
+    branches: [ main, quiz ]
 
 env:
   CARGO_TERM_COLOR: always
